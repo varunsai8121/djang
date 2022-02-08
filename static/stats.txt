@@ -1,0 +1,2 @@
+hello this is static page
+and this page is a public page 
